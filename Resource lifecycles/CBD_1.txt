@@ -1,0 +1,1 @@
+This is a create before destroy file; Which is reverse of current terraform lifecycle
