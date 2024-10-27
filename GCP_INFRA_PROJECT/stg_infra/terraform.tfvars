@@ -1,0 +1,1 @@
+dev_bucket = "stg-infra-v2"
